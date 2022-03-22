@@ -1,0 +1,5 @@
+.head-pic {
+  max-width: 100%;
+  position: absolute;
+  filter: brightness(50%);
+}
